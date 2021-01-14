@@ -17,7 +17,6 @@ Hi, I'm Girish , a passionate self-taught Full Stack Developer 🙂.
 - 🤔 I’m looking for help with JS developers
 - 💬 Ask me about technology, I am happy to help.
 - 📫 How to reach me: acharya.developer@gmail.com
-- 😄 Pronouns: Girish N
 - 📝 [Resume](https://drive.google.com/file/d/1k67SDVk7QzW7V7qugG794e-CFO2R6D_4/view?usp=sharing)
 
 - ⚡ Fun fact: 7 out of 10 consumers find a company via the blog.
