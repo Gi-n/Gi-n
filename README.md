@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 <a href="https://www.linkedin.com/in/girish-achar-39a552107/">
-  <img align="left" alt="Girish Acharya LinkedIN" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1610635526~hmac=15fab9748d44f2af40eb71fd9cbd15b0" />
+  <img align="left" alt="Girish Acharya LinkedIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 
 <br />
